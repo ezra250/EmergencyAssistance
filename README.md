@@ -1,1 +1,1 @@
-# EmergencyAssistance
+# EmergencyAssistanceAndroid Application
